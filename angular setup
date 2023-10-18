@@ -1,0 +1,8 @@
+C:\Users\manish>npm install -g @angular/cli
+
+C:\Users\manish>ng new my-app
+C:\Users\manish>cd my-app
+
+C:\Users\manish\my-app>ng serve --open
+
+//server sucessfully running 
